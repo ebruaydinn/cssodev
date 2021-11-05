@@ -1,0 +1,43 @@
+.body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+#article1{
+    text-align: center;
+}
+#article2{
+    text-align: center;
+    list-style-position:inside;
+}
+.title{
+    color:maroon;
+    text-align: center;
+}
+#article3{
+    text-align: center;
+}
+.list-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list{
+    text-align: start;
+}
+.h-pink{
+    text-align: center;
+    color:rgb(148, 1, 1);
+}
+.img{
+    text-align: center;
+    
+}
+.imgborders{
+    border: 2px outset mediumpurple;
+}
+.head{
+    color:rebeccapurple; font-size:40px;
+    border: 2px outset mediumpurple ;
+}
+
